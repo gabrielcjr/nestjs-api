@@ -91,7 +91,7 @@
     "flatted": "^3.4.2",
     "follow-redirects": "^1.15.9",
     "form-data": "^3.0.4",
-    "glob": "^11.0.1",
+    "glob": "^14.0.4",
     "handlebars": "^4.7.10",
     "js-yaml": "^4.3.2",
     "json5": "^2.2.3",
